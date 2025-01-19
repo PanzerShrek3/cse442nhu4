@@ -1,73 +1,73 @@
 city,month,sun,precipitation
-"""Seattle""","""Jan""",69,5.55
-"""Seattle""","""Feb""",108,3.46
-"""Seattle""","""Mar""",178,3.7
-"""Seattle""","""Apr""",207,2.68
-"""Seattle""","""May""",253,1.93
-"""Seattle""","""Jun""",268,1.54
-"""Seattle""","""Jul""",312,0.67
-"""Seattle""","""Aug""",281,0.87
-"""Seattle""","""Sep""",221,1.42
-"""Seattle""","""Oct""",142,3.46
-"""Seattle""","""Nov""",72,6.54
-"""Seattle""","""Dec""",52,5.31
-"""Chicago""","""Jan""",135,2.05
-"""Chicago""","""Feb""",136,1.93
-"""Chicago""","""Mar""",187,2.72
-"""Chicago""","""Apr""",215,3.62
-"""Chicago""","""May""",281,4.13
-"""Chicago""","""Jun""",311,4.06
-"""Chicago""","""Jul""",318,4.02
-"""Chicago""","""Aug""",283,3.98
-"""Chicago""","""Sep""",226,3.31
-"""Chicago""","""Oct""",193,3.23
-"""Chicago""","""Nov""",113,3.43
-"""Chicago""","""Dec""",106,2.56
-"""New York""","""Jan""",154,3.9
-"""New York""","""Feb""",171,2.95
-"""New York""","""Mar""",213,4.06
-"""New York""","""Apr""",237,3.94
-"""New York""","""May""",268,4.45
-"""New York""","""Jun""",289,3.5
-"""New York""","""Jul""",302,4.53
-"""New York""","""Aug""",271,4.13
-"""New York""","""Sep""",235,3.98
-"""New York""","""Oct""",213,3.39
-"""New York""","""Nov""",169,3.82
-"""New York""","""Dec""",155,3.58
-"""San Francisco""","""Jan""",165,4.5
-"""San Francisco""","""Feb""",182,4.46
-"""San Francisco""","""Mar""",251,3.26
-"""San Francisco""","""Apr""",281,1.46
-"""San Francisco""","""May""",314,0.7
-"""San Francisco""","""Jun""",330,0.16
-"""San Francisco""","""Jul""",300,0.01
-"""San Francisco""","""Aug""",272,0.06
-"""San Francisco""","""Sep""",267,0.21
-"""San Francisco""","""Oct""",243,1.12
-"""San Francisco""","""Nov""",189,3.16
-"""San Francisco""","""Dec""",156,4.56
-"""Houston""","""Jan""",144,3.7
-"""Houston""","""Feb""",141,3.23
-"""Houston""","""Mar""",193,2.4
-"""Houston""","""Apr""",212,3.43
-"""Houston""","""May""",266,4.45
-"""Houston""","""Jun""",298,3.82
-"""Houston""","""Jul""",294,5.16
-"""Houston""","""Aug""",281,3.54
-"""Houston""","""Sep""",238,3.82
-"""Houston""","""Oct""",239,3.58
-"""Houston""","""Nov""",181,4.06
-"""Houston""","""Dec""",146,4.09
-"""Miami""","""Jan""",222,1.62
-"""Miami""","""Feb""",227,2.25
-"""Miami""","""Mar""",266,3
-"""Miami""","""Apr""",275,3.14
-"""Miami""","""May""",280,5.34
-"""Miami""","""Jun""",251,9.67
-"""Miami""","""Jul""",267,6.5
-"""Miami""","""Aug""",263,8.88
-"""Miami""","""Sep""",216,9.86
-"""Miami""","""Oct""",215,6.33
-"""Miami""","""Nov""",212,3.27
-"""Miami""","""Dec""",209,2.04
+""Seattle"",""Jan"",69,5.55
+""Seattle"",""Feb"",108,3.46
+""Seattle"",""Mar"",178,3.7
+""Seattle"",""Apr"",207,2.68
+""Seattle"",""May"",253,1.93
+""Seattle"",""Jun"",268,1.54
+""Seattle"",""Jul"",312,0.67
+""Seattle"",""Aug"",281,0.87
+""Seattle"",""Sep"",221,1.42
+""Seattle"",""Oct"",142,3.46
+""Seattle"",""Nov"",72,6.54
+""Seattle"",""Dec"",52,5.31
+""Chicago"",""Jan"",135,2.05
+""Chicago"",""Feb"",136,1.93
+""Chicago"",""Mar"",187,2.72
+""Chicago"",""Apr"",215,3.62
+""Chicago"",""May"",281,4.13
+""Chicago"",""Jun"",311,4.06
+""Chicago"",""Jul"",318,4.02
+""Chicago"",""Aug"",283,3.98
+""Chicago"",""Sep"",226,3.31
+""Chicago"",""Oct"",193,3.23
+""Chicago"",""Nov"",113,3.43
+""Chicago"",""Dec"",106,2.56
+""New York"",""Jan"",154,3.9
+""New York"",""Feb"",171,2.95
+""New York"",""Mar"",213,4.06
+""New York"",""Apr"",237,3.94
+""New York"",""May"",268,4.45
+""New York"",""Jun"",289,3.5
+""New York"",""Jul"",302,4.53
+""New York"",""Aug"",271,4.13
+""New York"",""Sep"",235,3.98
+""New York"",""Oct"",213,3.39
+""New York"",""Nov"",169,3.82
+""New York"",""Dec"",155,3.58
+""San Francisco"",""Jan"",165,4.5
+""San Francisco"",""Feb"",182,4.46
+""San Francisco"",""Mar"",251,3.26
+""San Francisco"",""Apr"",281,1.46
+""San Francisco"",""May"",314,0.7
+""San Francisco"",""Jun"",330,0.16
+""San Francisco"",""Jul"",300,0.01
+""San Francisco"",""Aug"",272,0.06
+""San Francisco"",""Sep"",267,0.21
+""San Francisco"",""Oct"",243,1.12
+""San Francisco"",""Nov"",189,3.16
+""San Francisco"",""Dec"",156,4.56
+""Houston"",""Jan"",144,3.7
+""Houston"",""Feb"",141,3.23
+""Houston"",""Mar"",193,2.4
+""Houston"",""Apr"",212,3.43
+""Houston"",""May"",266,4.45
+""Houston"",""Jun"",298,3.82
+""Houston"",""Jul"",294,5.16
+""Houston"",""Aug"",281,3.54
+""Houston"",""Sep"",238,3.82
+""Houston"",""Oct"",239,3.58
+""Houston"",""Nov"",181,4.06
+""Houston"",""Dec"",146,4.09
+""Miami"",""Jan"",222,1.62
+""Miami"",""Feb"",227,2.25
+""Miami"",""Mar"",266,3
+""Miami"",""Apr"",275,3.14
+""Miami"",""May"",280,5.34
+""Miami"",""Jun"",251,9.67
+""Miami"",""Jul"",267,6.5
+""Miami"",""Aug"",263,8.88
+""Miami"",""Sep"",216,9.86
+""Miami"",""Oct"",215,6.33
+""Miami"",""Nov"",212,3.27
+""Miami"",""Dec"",209,2.04
